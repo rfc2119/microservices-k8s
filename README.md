@@ -1,5 +1,3 @@
-[![Circle CI](https://circleci.com/gh/rfc2119/udacity-proj3.svg?style=svg)]()
-
 
 ## Overview
 
