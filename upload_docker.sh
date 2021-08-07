@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-user_id=***REMOVED***
+user_id=rfc2119
 proj_name=udacity-proj3
 dockerpath="$user_id/$proj_name"
 

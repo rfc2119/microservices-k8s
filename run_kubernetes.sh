@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This is your Docker ID/path
-#dockerpath=***REMOVED***/udacity-proj3
+#dockerpath=rfc2119/udacity-proj3
 #token_name=dockerhub-token
 
 # Run the Docker Hub container with kubernetes
